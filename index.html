@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>Um novo gato à cada clique!🐱</header>
+    <img src="https://cataas.com/cat" alt="cat" height="50%">
+    <div>
+        <button id="gerar-botao">Gerar</button>
+    </div>
+  </body>
+  <footer>
+    <p>Criado por Gabriel reis</p>
+  </footer>
+  <script>
+    document.getElementById('gerar-botao').addEventListener('click', function (){
+        location.reload();
+    });
+  </script>
+</html>

@@ -1,0 +1,25 @@
+/* SELETORES */
+/* SELETOR DE TAG */
+header{
+    padding: 10px;
+}
+body{
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+}
+div{
+    padding: 10px;
+}
+/* SELETOR DE CLASSE*/
+.nome {
+color:rgb(255, 0, 0);
+padding: 10px;
+border: solid 20px;
+border-color: black;
+}
+/* SELETOR DE ID*/
+
