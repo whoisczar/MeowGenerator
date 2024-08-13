@@ -7,30 +7,9 @@ This project features a simple web page that generates a new random cat image ev
 - When you click the button, a new cat image is fetched from the CATAAS API.
 - The page displays the new image along with a loading progress bar.
 
-## Preview
-
+## Meow🐱
 <img alt="A random cat image" src="https://cataas.com/cat" width="400"/>
 
 ## Try It Now
 
-Feel free to try out the project live here: [Try it now](https://whoisczar.github.io/PDA-MODULO-1---A2/)
-
-## How to Run Locally
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    ```
-
-2. Open the `index.html` file in your web browser.
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- CATAAS API
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Feel free to try out the project live here: [Try it now](https://whoisczar.github.io/MeowGenerator/)
